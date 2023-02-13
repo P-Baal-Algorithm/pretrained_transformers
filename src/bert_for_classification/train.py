@@ -128,14 +128,14 @@ for epoch in range(num_epochs):
         if not DIR_EXISTS:
             os.makedirs(out_path)
 
-        torch.save(best_model, f"{out_path}/{datetime.now()}.pt")
+        torch.save(best_model, f"/content/{datetime.now()}.pt")
         waiting = 0
     else:
         waiting += 1
 
     if waiting >= patience:
         break
-with open(f"/content/epoch_{epoch}_{datetime.now()}.json", "w", encoding="UTF-8") as f:
+with open(f"/out_path/epoch_{epoch}_{datetime.now()}.json", "w", encoding="UTF-8") as f:
     json.dump(
         best_scores,
         f,
