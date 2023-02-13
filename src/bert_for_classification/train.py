@@ -122,7 +122,7 @@ for epoch in range(num_epochs):
             "recall_score": val_recall,
         }
 
-        out_path = f"{save_path}lr_{learning_rate}/bs_{batch_size}"
+        out_path = f"{save_path}lr_{learning_rate}/bs_{batch_size}/layers_{params['model']['freeze_layers']}"
 
         DIR_EXISTS = os.path.exists(out_path)
         if not DIR_EXISTS:
