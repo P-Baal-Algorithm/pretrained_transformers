@@ -49,7 +49,6 @@ class BERTresaForSequenceClassification(nn.Module):
         if not run_adapter:
             self.model = AutoModel.from_pretrained(pretrained_model_name, config=config)
         else:
-            adapter_config = MAMConfig()
             self.model = AutoAdapterModel.from_pretrained(
                 pretrained_model_name,  # microsoft/mpnet-base
                 config=config,
