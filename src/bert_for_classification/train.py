@@ -105,6 +105,7 @@ for epoch in range(num_epochs):
 
     if val_f1 > best_f1:
         best_f1 = val_f1
+
         best_model = {
             "epoch": epoch,
             "model": model.state_dict(),
@@ -115,16 +116,17 @@ for epoch in range(num_epochs):
             "recall_score": val_recall,
         }
 
+        best_scores = {
+            "acc_score": val_acc,
+            "f1_score": val_f1,
+            "recall_score": val_recall,
+        }
+
         out_path = f"{save_path}lr_{learning_rate}/bs_{batch_size}"
 
         DIR_EXISTS = os.path.exists(out_path)
         if not DIR_EXISTS:
             os.makedirs(out_path)
-        with open(f"/content/epoch_{epoch}_{datetime.now()}.json", "w") as f:
-            json.dump(
-                {"acc_score": val_acc, "f1_score": val_f1, "recall_score": val_recall},
-                f,
-            )
 
         torch.save(best_model, f"{out_path}/{datetime.now()}.pt")
         waiting = 0
@@ -133,3 +135,8 @@ for epoch in range(num_epochs):
 
     if waiting >= patience:
         break
+with open(f"/content/epoch_{epoch}_{datetime.now()}.json", "w", encoding="UTF-8") as f:
+    json.dump(
+        best_scores,
+        f,
+    )
