@@ -1,0 +1,29 @@
+general:
+  model: "Roberta"
+  root: /Users/eliane/Desktop/Deale/bert_models
+
+data:
+  file_name: data/bert_for_classification/example_data.csv
+  val_size: 0.2
+  corpus_column_name: naics_industry
+  labels_column_name: label
+  labels_dict: null
+  max_seq_length: 128
+  tokenizer_model_name: bertin-project/bertin-roberta-base-spanish
+  truncation: True
+  padding: max_length
+
+model:
+  model_name: bertin-project/bertin-roberta-base-spanish
+  num_classes: 2
+  dropout: 0.2
+  batch_size: 8
+  num_epochs: 3
+  class_weights: [1,5]
+  early_stopping_rounds: 5
+  learning_rate: 0.0001
+  freeze_layers : 0
+
+checkpoint:
+  path: data/bert_for_classification/models/example_models/
+  file_name: epoch${self:model.num_epochs}

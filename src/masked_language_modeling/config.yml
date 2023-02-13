@@ -1,0 +1,24 @@
+general:
+  model: Roberta
+  root: /Users/eliane/Desktop/Deale/bert_models
+data:
+  file_name: data/masked_language_modeling/example_data.csv
+  corpus_column_name: native_trade_description
+  max_seq_length: 128
+  tokenizer_model_name: bertin-project/bertin-roberta-base-spanish
+  truncation: True
+  padding: max_length
+
+model:
+  model_name: bertin-project/bertin-roberta-base-spanish
+  batch_size: 8
+  num_epochs: 3
+  freeze_layers:
+
+training:
+  lr: 0.00005
+  num_warmup_steps: 10000
+
+checkpoint:
+  path: data/masked_language_modeling/models/example_models/
+  file_name: epoch${self:model.num_epochs}

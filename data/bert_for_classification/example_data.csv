@@ -1,0 +1,659 @@
+,nif_code,naics_industry,naics_sector,label
+0,b15436215,"Security Systems Services (except Locksmiths), Locksmiths","Administrative and Support and Waste Management and Remediation Services, Administrative and Support and Waste Management and Remediation Services",0
+1,b28898575,Toilet Preparation Manufacturing,Manufacturing,0
+2,b85503183,Dairy Product (except Dried or Canned) Merchant Wholesalers,Wholesale Trade,0
+3,b70083340,"Men's and Boys' Clothing and Furnishings Merchant Wholesalers, Footwear Merchant Wholesalers, Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers","Wholesale Trade, Wholesale Trade, Wholesale Trade",0
+4,b70409875,"Wood Window and Door Manufacturing, Prefabricated Wood Building Manufacturing","Manufacturing, Manufacturing",0
+5,b15581960,Fabricated Structural Metal Manufacturing,Manufacturing,0
+6,b64951148,"Other Miscellaneous Durable Goods Merchant Wholesalers, Other Miscellaneous Nondurable Goods Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+7,b33020082,Sawmills,Manufacturing,0
+8,b91585729,All Other Miscellaneous Schools and Instruction,Educational Services,0
+9,b88553342,"Beauty Salons, Barber Shops","Other Services (except Public Administration), Other Services (except Public Administration)",0
+10,b97856470,Other Commercial and Service Industry Machinery Manufacturing,Manufacturing,0
+11,b80228869,"Outdoor Advertising, Advertising Agencies, Direct Mail Advertising, Advertising Material Distribution Services, Other Services Related to Advertising","Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services",0
+12,b40157851,Pharmacies and Drug Stores,Retail Trade,0
+13,b40157851,Pharmacies and Drug Stores,Retail Trade,0
+14,b40157851,Pharmacies and Drug Stores,Retail Trade,0
+15,b41686320,"Soap and Other Detergent Manufacturing, Polish and Other Sanitation Good Manufacturing","Manufacturing, Manufacturing",0
+16,b98498892,"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",Wholesale Trade,0
+17,b96599006,Engineering Services,"Professional, Scientific, and Technical Services",0
+18,b17320896,Computer and Computer Peripheral Equipment and Software Merchant Wholesalers,Wholesale Trade,0
+19,b63745848,All Other Business Support Services,Administrative and Support and Waste Management and Remediation Services,0
+20,b54705140,Office Equipment Merchant Wholesalers,Wholesale Trade,0
+21,b40628117,Offices of Dentists,Health Care and Social Assistance,0
+22,b15238850,"Confectionery and Nut Stores, Baked Goods Stores, Retail Bakeries","Retail Trade, Retail Trade, Manufacturing",0
+23,b60654472,"Plumbing, Heating, and Air-Conditioning Contractors",Construction,0
+24,b55603674,Custom Computer Programming Services,"Professional, Scientific, and Technical Services",0
+25,b55219554,Fabricated Structural Metal Manufacturing,Manufacturing,0
+26,b41922998,All Other Support Activities for Transportation,Transportation and Warehousing,0
+27,b57771685,Electrical Contractors and Other Wiring Installation Contractors,Construction,0
+28,a29375581,"Motorcycle, ATV, and All Other Motor Vehicle Dealers, Automobile and Other Motor Vehicle Merchant Wholesalers","Retail Trade, Wholesale Trade",0
+29,a29375581,"Motorcycle, ATV, and All Other Motor Vehicle Dealers, Automobile and Other Motor Vehicle Merchant Wholesalers","Retail Trade, Wholesale Trade",0
+30,b60747854,"General Freight Trucking, Long-Distance, Truckload, General Freight Trucking, Long-Distance, Less Than Truckload, Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Local, Specialized Freight (except Used Goods) Trucking, Long-Distance","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+31,b35901651,"Wood Window and Door Manufacturing, Prefabricated Wood Building Manufacturing","Manufacturing, Manufacturing",0
+32,b02282978,"Plumbing, Heating, and Air-Conditioning Contractors",Construction,0
+33,b27837038,Automotive Parts and Accessories Stores,Retail Trade,0
+34,b65042335,"Advertising Material Distribution Services, Advertising Agencies, Other Services Related to Advertising, Outdoor Advertising, Direct Mail Advertising","Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services",0
+35,b17780974,"General Freight Trucking, Long-Distance, Truckload, Specialized Freight (except Used Goods) Trucking, Long-Distance, Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Long-Distance, Less Than Truckload, General Freight Trucking, Local","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+36,b06638951,Fish and Seafood Merchant Wholesalers,Wholesale Trade,0
+37,b49171887,All Other Miscellaneous Textile Product Mills,Manufacturing,0
+38,b20087417,Electrical Contractors and Other Wiring Installation Contractors,Construction,0
+39,b43452945,"Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers, Hardware Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+40,b67013144,Offices of All Other Miscellaneous Health Practitioners,Health Care and Social Assistance,0
+41,a62933734,"Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers, Hardware Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+42,b54572623,All Other Specialty Trade Contractors,Construction,0
+43,b86710290,"Wholesale Trade Agents and Brokers, Other Miscellaneous Nondurable Goods Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+44,b27019736,"Motor Vehicle Parts (Used) Merchant Wholesalers, Motor Vehicle Supplies and New Parts Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+45,b57898660,Fresh Fruit and Vegetable Merchant Wholesalers,Wholesale Trade,0
+46,b10501310,"Paint, Varnish, and Supplies Merchant Wholesalers",Wholesale Trade,0
+47,b78974532,Water and Sewer Line and Related Structures Construction,Construction,0
+48,b49216377,"New Multifamily Housing Construction (except For-Sale Builders), Commercial and Institutional Building Construction, New Single-Family Housing Construction (except For-Sale Builders), Industrial Building Construction","Construction, Construction, Construction, Construction",0
+49,b87514378,Elementary and Secondary Schools,Educational Services,0
+50,a08768855,All Other Miscellaneous Fabricated Metal Product Manufacturing,Manufacturing,0
+51,a08768855,All Other Miscellaneous Fabricated Metal Product Manufacturing,Manufacturing,0
+52,a61608584,All Other Support Activities for Transportation,Transportation and Warehousing,0
+53,b52513512,Metal Service Centers and Other Metal Merchant Wholesalers,Wholesale Trade,0
+54,b10004786,Fresh Fruit and Vegetable Merchant Wholesalers,Wholesale Trade,0
+55,b10004786,Fresh Fruit and Vegetable Merchant Wholesalers,Wholesale Trade,0
+56,b82710377,"Industrial Building Construction, New Housing For-Sale Builders, New Multifamily Housing Construction (except For-Sale Builders), New Single-Family Housing Construction (except For-Sale Builders), Commercial and Institutional Building Construction, Residential Remodelers","Construction, Construction, Construction, Construction, Construction, Construction",0
+57,b41481326,Meat and Meat Product Merchant Wholesalers,Wholesale Trade,0
+58,b73036782,"Janitorial Services, Carpet and Upholstery Cleaning Services","Administrative and Support and Waste Management and Remediation Services, Administrative and Support and Waste Management and Remediation Services",0
+59,b38280384,Lessors of Other Real Estate Property,Real Estate and Rental and Leasing,0
+60,b91923276,All Other Health and Personal Care Stores,Retail Trade,0
+61,b70615604,"Glass and Glazing Contractors, Painting and Wall Covering Contractors","Construction, Construction",0
+62,b91984021,Other Computer Related Services,"Professional, Scientific, and Technical Services",0
+63,b58282724,"Shoe Stores, Luggage and Leather Goods Stores","Retail Trade, Retail Trade",0
+64,b57943656,"Flooring Contractors, Painting and Wall Covering Contractors","Construction, Construction",0
+65,b92967546,Other Chemical and Allied Products Merchant Wholesalers,Wholesale Trade,0
+66,a10024305,All Other Specialty Trade Contractors,Construction,0
+67,b87326112,Other Performing Arts Companies,"Arts, Entertainment, and Recreation",0
+68,b66197989,"New Multifamily Housing Construction (except For-Sale Builders), Commercial and Institutional Building Construction, Industrial Building Construction, Residential Remodelers, New Housing For-Sale Builders, New Single-Family Housing Construction (except For-Sale Builders)","Construction, Construction, Construction, Construction, Construction, Construction",0
+69,b42202283,"All Other General Merchandise Stores, Warehouse Clubs and Supercenters, Department Stores","Retail Trade, Retail Trade, Retail Trade",0
+70,b73933657,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,Other Services (except Public Administration),0
+71,b73933657,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,Other Services (except Public Administration),0
+72,b73933657,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,Other Services (except Public Administration),0
+73,b93296093,Home Furnishing Merchant Wholesalers,Wholesale Trade,0
+74,b55310817,"Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing, Farm Machinery and Equipment Manufacturing","Manufacturing, Manufacturing",0
+75,b92043850,All Other Miscellaneous Store Retailers (except Tobacco Stores),Retail Trade,0
+76,b79141354,All Other Miscellaneous Schools and Instruction,Educational Services,0
+77,b11929114,Electronics Stores,Retail Trade,0
+78,b87916078,All Other Specialty Trade Contractors,Construction,0
+79,a08221517,"Office Furniture (except Wood) Manufacturing, Wood Office Furniture Manufacturing","Manufacturing, Manufacturing",0
+80,b28817054,Electronics Stores,Retail Trade,0
+81,b90342742,Electrical Contractors and Other Wiring Installation Contractors,Construction,0
+82,b86021375,Architectural Services,"Professional, Scientific, and Technical Services",0
+83,b85703643,All Other Business Support Services,Administrative and Support and Waste Management and Remediation Services,0
+84,b64472178,Wood Container and Pallet Manufacturing,Manufacturing,0
+85,b88019815,Motion Picture and Video Distribution,Information,0
+86,b67569491,"Other Miscellaneous Nondurable Goods Merchant Wholesalers, Wholesale Trade Agents and Brokers","Wholesale Trade, Wholesale Trade",0
+87,b12615589,Engineering Services,"Professional, Scientific, and Technical Services",0
+88,b25755638,Custom Computer Programming Services,"Professional, Scientific, and Technical Services",0
+89,b59884205,"Hardware Stores, Paint and Wallpaper Stores","Retail Trade, Retail Trade",0
+90,b67313262,"Apparel Accessories and Other Apparel Manufacturing, Other Cut and Sew Apparel Manufacturing","Manufacturing, Manufacturing",0
+91,b67313262,"Apparel Accessories and Other Apparel Manufacturing, Other Cut and Sew Apparel Manufacturing","Manufacturing, Manufacturing",0
+92,b86900461,Travel Agencies,Administrative and Support and Waste Management and Remediation Services,0
+93,b98475569,Home Furnishing Merchant Wholesalers,Wholesale Trade,0
+94,b87562716,Jewelry Stores,Retail Trade,0
+95,b92887512,All Other Health and Personal Care Stores,Retail Trade,0
+96,b12969309,"Supermarkets and Other Grocery (except Convenience) Stores, Convenience Stores","Retail Trade, Retail Trade",0
+97,b86360773,Appliance Repair and Maintenance,Other Services (except Public Administration),0
+98,b84804418,All Other Support Activities for Transportation,Transportation and Warehousing,0
+99,b28406163,"Wood Office Furniture Manufacturing, Office Furniture (except Wood) Manufacturing","Manufacturing, Manufacturing",0
+100,b45779006,All Other Miscellaneous Schools and Instruction,Educational Services,0
+101,b47351135,All Other Telecommunications,Information,0
+102,b87184164,"Wholesale Trade Agents and Brokers, Other Miscellaneous Nondurable Goods Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+103,b86858479,All Other Specialty Trade Contractors,Construction,0
+104,b59116087,Other Electronic Parts and Equipment Merchant Wholesalers,Wholesale Trade,0
+105,b67592253,"Wholesale Trade Agents and Brokers, Other Miscellaneous Nondurable Goods Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+106,b60986973,Lessors of Other Real Estate Property,Real Estate and Rental and Leasing,0
+107,a80480759,Engineering Services,"Professional, Scientific, and Technical Services",0
+108,b37276011,"Commercial Bakeries, Retail Bakeries","Manufacturing, Manufacturing",0
+109,b76304054,Industrial Machinery and Equipment Merchant Wholesalers,Wholesale Trade,0
+110,b62383534,Sporting Goods Stores,Retail Trade,0
+111,b48966808,Fish and Seafood Merchant Wholesalers,Wholesale Trade,0
+112,b66663899,Research and Development in Biotechnology (except Nanobiotechnology),"Professional, Scientific, and Technical Services",0
+113,b56038672,All Other Specialty Food Stores,Retail Trade,0
+114,b81387938,"Plumbing, Heating, and Air-Conditioning Contractors",Construction,0
+115,b88216114,"Mobile Food Services, Full-Service Restaurants, Limited-Service Restaurants","Accommodation and Food Services, Accommodation and Food Services, Accommodation and Food Services",0
+116,b91426023,"Tax Preparation Services, Other Accounting Services, Offices of Certified Public Accountants","Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services",0
+117,b09302704,"Beauty Salons, Barber Shops","Other Services (except Public Administration), Other Services (except Public Administration)",0
+118,b12889986,"Limited-Service Restaurants, Full-Service Restaurants, Mobile Food Services","Accommodation and Food Services, Accommodation and Food Services, Accommodation and Food Services",0
+119,b12889986,"Limited-Service Restaurants, Full-Service Restaurants, Mobile Food Services","Accommodation and Food Services, Accommodation and Food Services, Accommodation and Food Services",0
+120,b97457451,"Commercial and Institutional Building Construction, Industrial Building Construction, Residential Remodelers, New Housing For-Sale Builders, New Multifamily Housing Construction (except For-Sale Builders), New Single-Family Housing Construction (except For-Sale Builders)","Construction, Construction, Construction, Construction, Construction, Construction",0
+121,b97457451,"Commercial and Institutional Building Construction, Industrial Building Construction, Residential Remodelers, New Housing For-Sale Builders, New Multifamily Housing Construction (except For-Sale Builders), New Single-Family Housing Construction (except For-Sale Builders)","Construction, Construction, Construction, Construction, Construction, Construction",0
+122,b46619516,Commercial Printing (except Screen and Books),Manufacturing,0
+123,b83988857,Meat and Meat Product Merchant Wholesalers,Wholesale Trade,0
+124,b41984428,"Upholstered Household Furniture Manufacturing, Household Furniture (except Wood and Metal) Manufacturing, Metal Household Furniture Manufacturing, Nonupholstered Wood Household Furniture Manufacturing","Manufacturing, Manufacturing, Manufacturing, Manufacturing",0
+125,b67130278,"Other Services to Buildings and Dwellings, Janitorial Services","Administrative and Support and Waste Management and Remediation Services, Administrative and Support and Waste Management and Remediation Services",0
+126,b76150309,Perishable Prepared Food Manufacturing,Manufacturing,0
+127,b43534593,"Plumbing, Heating, and Air-Conditioning Contractors",Construction,0
+128,a50225069,Engineering Services,"Professional, Scientific, and Technical Services",0
+129,b93238038,"Other Grocery and Related Products Merchant Wholesalers, General Line Grocery Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+130,b60074754,Other Motor Vehicle Parts Manufacturing,Manufacturing,0
+131,b99002784,Other Motor Vehicle Parts Manufacturing,Manufacturing,0
+132,b61951406,"Industrial Building Construction, New Single-Family Housing Construction (except For-Sale Builders), New Multifamily Housing Construction (except For-Sale Builders), New Housing For-Sale Builders, Residential Remodelers, Commercial and Institutional Building Construction","Construction, Construction, Construction, Construction, Construction, Construction",0
+133,b08881047,Fish and Seafood Merchant Wholesalers,Wholesale Trade,0
+134,b98183478,"Other Miscellaneous Nondurable Goods Merchant Wholesalers, Other Miscellaneous Durable Goods Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+135,b54333059,"Nonupholstered Wood Household Furniture Manufacturing, Upholstered Household Furniture Manufacturing, Metal Household Furniture Manufacturing, Household Furniture (except Wood and Metal) Manufacturing","Manufacturing, Manufacturing, Manufacturing, Manufacturing",0
+136,b29831419,"Specialized Freight (except Used Goods) Trucking, Long-Distance, Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Long-Distance, Less Than Truckload, General Freight Trucking, Long-Distance, Truckload, General Freight Trucking, Local","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+137,b84835990,"Specialized Freight (except Used Goods) Trucking, Long-Distance, Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Long-Distance, Less Than Truckload, General Freight Trucking, Long-Distance, Truckload, General Freight Trucking, Local","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+138,a11080579,Appliance Repair and Maintenance,Other Services (except Public Administration),0
+139,b78997103,Other Electronic Parts and Equipment Merchant Wholesalers,Wholesale Trade,0
+140,b66349986,Convention and Trade Show Organizers,Administrative and Support and Waste Management and Remediation Services,0
+141,b65392540,"All Other Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",0
+142,b67151886,Other Support Activities for Water Transportation,Transportation and Warehousing,0
+143,a74163189,"Motorcycle, ATV, and All Other Motor Vehicle Dealers, Automobile and Other Motor Vehicle Merchant Wholesalers","Retail Trade, Wholesale Trade",0
+144,b66870585,"Luggage and Leather Goods Stores, Shoe Stores","Retail Trade, Retail Trade",0
+145,b86909454,"International Trade Financing, Miscellaneous Financial Investment Activities, Financial Transactions Processing, Reserve, and Clearinghouse Activities, All Other Nondepository Credit Intermediation","Finance and Insurance, Finance and Insurance, Finance and Insurance, Finance and Insurance",0
+146,b85490068,Electrical Contractors and Other Wiring Installation Contractors,Construction,0
+147,b86971330,Computer Systems Design Services,"Professional, Scientific, and Technical Services",0
+148,b76157239,All Other Miscellaneous Store Retailers (except Tobacco Stores),Retail Trade,0
+149,b24331498,Insurance Agencies and Brokerages,Finance and Insurance,0
+150,b98894488,All Other Specialty Trade Contractors,Construction,0
+151,b67071951,"Automobile and Other Motor Vehicle Merchant Wholesalers, Motorcycle, ATV, and All Other Motor Vehicle Dealers","Wholesale Trade, Retail Trade",0
+152,b98507007,"Specialized Freight (except Used Goods) Trucking, Long-Distance, Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Long-Distance, Less Than Truckload, General Freight Trucking, Long-Distance, Truckload, General Freight Trucking, Local","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+153,a18276386,Engineering Services,"Professional, Scientific, and Technical Services",0
+154,b67093906,Roofing Contractors,Construction,0
+155,b87978631,All Other Miscellaneous Store Retailers (except Tobacco Stores),Retail Trade,0
+156,b18933226,All Other Miscellaneous Store Retailers (except Tobacco Stores),Retail Trade,0
+157,b17912007,"Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Long-Distance, Less Than Truckload, General Freight Trucking, Long-Distance, Truckload, General Freight Trucking, Local, Specialized Freight (except Used Goods) Trucking, Long-Distance","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+158,b83283788,"New Single-Family Housing Construction (except For-Sale Builders), Commercial and Institutional Building Construction, Industrial Building Construction, Residential Remodelers, New Housing For-Sale Builders, New Multifamily Housing Construction (except For-Sale Builders)","Construction, Construction, Construction, Construction, Construction, Construction",0
+159,b21175112,"Commercial Bakeries, Retail Bakeries","Manufacturing, Manufacturing",0
+160,b66292970,Home Furnishing Merchant Wholesalers,Wholesale Trade,0
+161,b45387818,"Pet and Pet Supplies Stores, Florists","Retail Trade, Retail Trade",0
+162,b99405615,"Cosmetics, Beauty Supplies, and Perfume Stores",Retail Trade,0
+163,a87409728,"Commodity Contracts Dealing, Securities and Commodity Exchanges, Commodity Contracts Brokerage, Securities Brokerage","Finance and Insurance, Finance and Insurance, Finance and Insurance, Finance and Insurance",0
+164,a22012496,"Rendering and Meat Byproduct Processing, Meat Processed from Carcasses","Manufacturing, Manufacturing",0
+165,a22012496,"Rendering and Meat Byproduct Processing, Meat Processed from Carcasses","Manufacturing, Manufacturing",0
+166,b65432890,Industrial Machinery and Equipment Merchant Wholesalers,Wholesale Trade,0
+167,b01540103,All Other Specialty Trade Contractors,Construction,0
+168,b55757959,"Other Construction Material Merchant Wholesalers, Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+169,b14573695,Landscaping Services,Administrative and Support and Waste Management and Remediation Services,0
+170,b21491352,All Other Miscellaneous Store Retailers (except Tobacco Stores),Retail Trade,0
+171,b76682665,All Other Business Support Services,Administrative and Support and Waste Management and Remediation Services,0
+172,b01679786,Industrial Machinery and Equipment Merchant Wholesalers,Wholesale Trade,0
+173,b01679786,Industrial Machinery and Equipment Merchant Wholesalers,Wholesale Trade,0
+174,b03469947,Offices of All Other Miscellaneous Health Practitioners,Health Care and Social Assistance,0
+175,b36194108,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",Real Estate and Rental and Leasing,0
+176,b36194108,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",Real Estate and Rental and Leasing,0
+177,b36194108,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",Real Estate and Rental and Leasing,0
+178,b55659627,All Other Automotive Repair and Maintenance,Other Services (except Public Administration),0
+179,b85884286,Custom Computer Programming Services,"Professional, Scientific, and Technical Services",0
+180,a45020005,"Automobile and Other Motor Vehicle Merchant Wholesalers, Motorcycle, ATV, and All Other Motor Vehicle Dealers","Wholesale Trade, Retail Trade",0
+181,b49153737,Other Waste Collection,Administrative and Support and Waste Management and Remediation Services,0
+182,b11888070,"Passenger Car Leasing, Passenger Car Rental","Real Estate and Rental and Leasing, Real Estate and Rental and Leasing",0
+183,b93230373,Dairy Product (except Dried or Canned) Merchant Wholesalers,Wholesale Trade,0
+184,b65463564,"Bus and Other Motor Vehicle Transit Systems, Charter Bus Industry, School and Employee Bus Transportation, Interurban and Rural Bus Transportation","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+185,b30686448,All Other Automotive Repair and Maintenance,Other Services (except Public Administration),0
+186,b66919788,Book Publishers,Information,0
+187,b65897084,"Couriers and Express Delivery Services, Postal Service","Transportation and Warehousing, Transportation and Warehousing",0
+188,b83236687,Confectionery Merchant Wholesalers,Wholesale Trade,0
+189,b87924601,"Motor Vehicle Parts (Used) Merchant Wholesalers, Motor Vehicle Supplies and New Parts Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+190,b83595892,All Other Miscellaneous Electrical Equipment and Component Manufacturing,Manufacturing,0
+191,b66632068,Office Equipment Merchant Wholesalers,Wholesale Trade,0
+192,b44224129,Custom Computer Programming Services,"Professional, Scientific, and Technical Services",0
+193,b93035210,News Dealers and Newsstands,Retail Trade,0
+194,b61729133,"General Freight Trucking, Long-Distance, Less Than Truckload, Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Long-Distance, Truckload, General Freight Trucking, Local, Specialized Freight (except Used Goods) Trucking, Long-Distance","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+195,b04101457,"Plumbing, Heating, and Air-Conditioning Contractors",Construction,0
+196,b38251187,"Paint and Wallpaper Stores, Hardware Stores","Retail Trade, Retail Trade",0
+197,b80316771,All Other Support Activities for Transportation,Transportation and Warehousing,0
+198,b61078523,"Tax Preparation Services, Other Accounting Services, Offices of Certified Public Accountants","Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services",0
+199,b53935136,Computer Systems Design Services,"Professional, Scientific, and Technical Services",0
+200,b73702599,Household Appliance Stores,Retail Trade,0
+201,b58871641,All Other Rubber Product Manufacturing,Manufacturing,0
+202,b31481161,Other Heavy and Civil Engineering Construction,Construction,0
+203,b01824630,"Other Miscellaneous Nondurable Goods Merchant Wholesalers, Wholesale Trade Agents and Brokers","Wholesale Trade, Wholesale Trade",0
+204,b54645452,Other Direct Selling Establishments,Retail Trade,0
+205,b24235129,"Rendering and Meat Byproduct Processing, Meat Processed from Carcasses","Manufacturing, Manufacturing",0
+206,b23363591,Other Motor Vehicle Parts Manufacturing,Manufacturing,0
+207,b06759559,Hog and Pig Farming,"Agriculture, Forestry, Fishing and Hunting",0
+208,b42124065,"Gasoline Stations with Convenience Stores, Other Gasoline Stations","Retail Trade, Retail Trade",0
+209,b87520961,Travel Agencies,Administrative and Support and Waste Management and Remediation Services,0
+210,b61320057,All Other Miscellaneous Food Manufacturing,Manufacturing,0
+211,b11895901,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers, Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+212,b11895901,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers, Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+213,b61461885,Fabricated Structural Metal Manufacturing,Manufacturing,0
+214,b10167641,Offices of All Other Miscellaneous Health Practitioners,Health Care and Social Assistance,0
+215,b60370467,"Meat Processed from Carcasses, Rendering and Meat Byproduct Processing","Manufacturing, Manufacturing",0
+216,b14892715,Home Furnishing Merchant Wholesalers,Wholesale Trade,0
+217,b14892715,Home Furnishing Merchant Wholesalers,Wholesale Trade,0
+218,b66584442,Furniture Merchant Wholesalers,Wholesale Trade,0
+219,b87488672,"Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Long-Distance, Less Than Truckload, Specialized Freight (except Used Goods) Trucking, Long-Distance, General Freight Trucking, Local, General Freight Trucking, Long-Distance, Truckload","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+220,b84726405,Computer and Office Machine Repair and Maintenance,Other Services (except Public Administration),0
+221,b85989622,"Advertising Agencies, Other Services Related to Advertising, Advertising Material Distribution Services, Direct Mail Advertising, Outdoor Advertising","Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services",0
+222,a78121084,Farm and Garden Machinery and Equipment Merchant Wholesalers,Wholesale Trade,0
+223,a78121084,Farm and Garden Machinery and Equipment Merchant Wholesalers,Wholesale Trade,0
+224,b55774392,Other Direct Selling Establishments,Retail Trade,0
+225,a79221883,Other Grocery and Related Products Merchant Wholesalers,Wholesale Trade,0
+226,b99093338,"All Other Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",0
+227,a84713338,"Dental Laboratories, Dental Equipment and Supplies Manufacturing, Surgical and Medical Instrument Manufacturing","Manufacturing, Manufacturing, Manufacturing",0
+228,b60357530,Fabricated Structural Metal Manufacturing,Manufacturing,0
+229,a58409541,Appliance Repair and Maintenance,Other Services (except Public Administration),0
+230,b99161036,Landscaping Services,Administrative and Support and Waste Management and Remediation Services,0
+231,b90307406,All Other Miscellaneous Store Retailers (except Tobacco Stores),Retail Trade,0
+232,b30724587,"Carpet and Upholstery Cleaning Services, Janitorial Services","Administrative and Support and Waste Management and Remediation Services, Administrative and Support and Waste Management and Remediation Services",0
+233,a78103280,"Metal Window and Door Manufacturing, Ornamental and Architectural Metal Work Manufacturing","Manufacturing, Manufacturing",0
+234,b76725753,"Janitorial Services, Carpet and Upholstery Cleaning Services","Administrative and Support and Waste Management and Remediation Services, Administrative and Support and Waste Management and Remediation Services",0
+235,b32496457,"Paint and Wallpaper Stores, Hardware Stores","Retail Trade, Retail Trade",0
+236,b62039367,Industrial Machinery and Equipment Merchant Wholesalers,Wholesale Trade,0
+237,a08673576,Electrical Contractors and Other Wiring Installation Contractors,Construction,0
+238,a35081785,"General Line Grocery Merchant Wholesalers, Other Grocery and Related Products Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+239,b60563517,"Motor Vehicle Parts (Used) Merchant Wholesalers, Motor Vehicle Supplies and New Parts Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+240,b25737420,"Other Construction Material Merchant Wholesalers, Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+241,b86698255,"Radio Stations, Radio Networks","Information, Information",0
+242,b98607088,"Wholesale Trade Agents and Brokers, Other Miscellaneous Nondurable Goods Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+243,a26010678,Wineries,Manufacturing,0
+244,b65714768,Architectural Services,"Professional, Scientific, and Technical Services",0
+245,b80444540,Janitorial Services,Administrative and Support and Waste Management and Remediation Services,0
+246,b93555621,Sporting Goods Stores,Retail Trade,0
+247,b60112604,Plastics Material and Resin Manufacturing,Manufacturing,0
+248,b65485922,Custom Computer Programming Services,"Professional, Scientific, and Technical Services",0
+249,b80133036,"Copper Rolling, Drawing, Extruding, and Alloying, Rolled Steel Shape Manufacturing","Manufacturing, Manufacturing",0
+250,b98348808,Home Furnishing Merchant Wholesalers,Wholesale Trade,0
+251,b70541123,"Wholesale Trade Agents and Brokers, Other Miscellaneous Nondurable Goods Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+252,b98377195,Office Equipment Merchant Wholesalers,Wholesale Trade,0
+253,b12081170,"Other Construction Material Merchant Wholesalers, Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+254,b92401355,Offices of All Other Miscellaneous Health Practitioners,Health Care and Social Assistance,0
+255,b92401355,Offices of All Other Miscellaneous Health Practitioners,Health Care and Social Assistance,0
+256,b66664285,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,Other Services (except Public Administration),0
+257,b15672850,Offices of All Other Miscellaneous Health Practitioners,Health Care and Social Assistance,0
+258,b93175404,"Other Miscellaneous Nondurable Goods Merchant Wholesalers, Wholesale Trade Agents and Brokers","Wholesale Trade, Wholesale Trade",0
+259,b73720138,"Plastics Bottle Manufacturing, Plastics Bag and Pouch Manufacturing, Plastics Packaging Film and Sheet (including Laminated) Manufacturing","Manufacturing, Manufacturing, Manufacturing",0
+260,b40637902,Landscaping Services,Administrative and Support and Waste Management and Remediation Services,0
+261,b30437875,"New Single-Family Housing Construction (except For-Sale Builders), New Multifamily Housing Construction (except For-Sale Builders), Residential Remodelers, Commercial and Institutional Building Construction, Industrial Building Construction, New Housing For-Sale Builders","Construction, Construction, Construction, Construction, Construction, Construction",0
+262,b38717518,Recyclable Material Merchant Wholesalers,Wholesale Trade,0
+263,a08790628,"All Other Home Furnishings Stores, Furniture Stores","Retail Trade, Retail Trade",0
+264,b81590077,Caterers,Accommodation and Food Services,0
+265,b26156414,Offices of All Other Miscellaneous Health Practitioners,Health Care and Social Assistance,0
+266,a46079869,Cut Stone and Stone Product Manufacturing,Manufacturing,0
+267,b82989773,Commercial Printing (except Screen and Books),Manufacturing,0
+268,b67431395,All Other Miscellaneous General Purpose Machinery Manufacturing,Manufacturing,0
+269,b62871959,Other Chemical and Allied Products Merchant Wholesalers,Wholesale Trade,0
+270,a96361605,"Securities and Commodity Exchanges, Secondary Market Financing","Finance and Insurance, Finance and Insurance",0
+271,b84934470,Other Computer Related Services,"Professional, Scientific, and Technical Services",0
+272,b97851968,"New Housing For-Sale Builders, New Multifamily Housing Construction (except For-Sale Builders), New Single-Family Housing Construction (except For-Sale Builders), Commercial and Institutional Building Construction, Industrial Building Construction, Residential Remodelers","Construction, Construction, Construction, Construction, Construction, Construction",0
+273,b90068040,Computer Facilities Management Services,"Professional, Scientific, and Technical Services",0
+274,b65026858,Household Appliance Stores,Retail Trade,0
+275,b85075448,Elementary and Secondary Schools,Educational Services,0
+276,b57825432,"Other Miscellaneous Nondurable Goods Merchant Wholesalers, Wholesale Trade Agents and Brokers","Wholesale Trade, Wholesale Trade",0
+277,b40552671,Other Building Equipment Contractors,Construction,0
+278,b72070642,Ship Building and Repairing,Manufacturing,0
+279,b61856050,"Other Miscellaneous Nondurable Goods Merchant Wholesalers, Wholesale Trade Agents and Brokers","Wholesale Trade, Wholesale Trade",0
+280,b92821586,Electronics Stores,Retail Trade,0
+281,b98914435,"Full-Service Restaurants, Limited-Service Restaurants, Mobile Food Services","Accommodation and Food Services, Accommodation and Food Services, Accommodation and Food Services",0
+282,b95049300,All Other Specialty Trade Contractors,Construction,0
+283,b63483531,"New Single-Family Housing Construction (except For-Sale Builders), Commercial and Institutional Building Construction, Industrial Building Construction, Residential Remodelers, New Housing For-Sale Builders, New Multifamily Housing Construction (except For-Sale Builders)","Construction, Construction, Construction, Construction, Construction, Construction",0
+284,a28242808,Other Building Equipment Contractors,Construction,0
+285,b13309356,All Other Miscellaneous Store Retailers (except Tobacco Stores),Retail Trade,0
+286,b20761011,"General Freight Trucking, Long-Distance, Less Than Truckload, Specialized Freight (except Used Goods) Trucking, Long-Distance, Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Long-Distance, Truckload, General Freight Trucking, Local","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+287,b06485833,"Other Electric Power Generation, Biomass Electric Power Generation, Geothermal Electric Power Generation, Wind Electric Power Generation, Solar Electric Power Generation, Nuclear Electric Power Generation, Fossil Fuel Electric Power Generation, Hydroelectric Power Generation","Utilities, Utilities, Utilities, Utilities, Utilities, Utilities, Utilities, Utilities",0
+288,b67404681,All Other Business Support Services,Administrative and Support and Waste Management and Remediation Services,0
+289,b53801536,Drugs and Druggists' Sundries Merchant Wholesalers,Wholesale Trade,0
+290,b88097282,"Advertising Material Distribution Services, Other Services Related to Advertising, Direct Mail Advertising, Outdoor Advertising, Advertising Agencies","Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services",0
+291,b31713746,"Supermarkets and Other Grocery (except Convenience) Stores, Convenience Stores","Retail Trade, Retail Trade",0
+292,b86734837,All Other Automotive Repair and Maintenance,Other Services (except Public Administration),0
+293,b98666126,"New Multifamily Housing Construction (except For-Sale Builders), Commercial and Institutional Building Construction, Industrial Building Construction, Residential Remodelers, New Housing For-Sale Builders, New Single-Family Housing Construction (except For-Sale Builders)","Construction, Construction, Construction, Construction, Construction, Construction",0
+294,b83998609,"Other Accounting Services, Tax Preparation Services, Offices of Certified Public Accountants","Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services",0
+295,b41668112,All Other Miscellaneous Fabricated Metal Product Manufacturing,Manufacturing,0
+296,b98414063,Finish Carpentry Contractors,Construction,0
+297,b11381050,Other Marine Fishing,"Agriculture, Forestry, Fishing and Hunting",0
+298,b97166458,Computer Systems Design Services,"Professional, Scientific, and Technical Services",0
+299,b26315739,"Farm Machinery and Equipment Manufacturing, Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing","Manufacturing, Manufacturing",0
+300,a30074363,Fresh Fruit and Vegetable Merchant Wholesalers,Wholesale Trade,0
+301,b14563555,"Specialized Freight (except Used Goods) Trucking, Long-Distance, Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Long-Distance, Less Than Truckload, General Freight Trucking, Long-Distance, Truckload, General Freight Trucking, Local","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+302,b36033272,Logging,"Agriculture, Forestry, Fishing and Hunting",0
+303,b65816167,All Other Support Activities for Transportation,Transportation and Warehousing,0
+304,b92559061,"Pet and Pet Supplies Stores, Florists","Retail Trade, Retail Trade",0
+305,b48500938,"Interurban and Rural Bus Transportation, Bus and Other Motor Vehicle Transit Systems, School and Employee Bus Transportation, Charter Bus Industry","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+306,b25750969,Hog and Pig Farming,"Agriculture, Forestry, Fishing and Hunting",0
+307,b67392266,Electric Power Distribution,Utilities,0
+308,b98323306,"General Freight Trucking, Long-Distance, Less Than Truckload, General Freight Trucking, Long-Distance, Truckload, General Freight Trucking, Local, Specialized Freight (except Used Goods) Trucking, Long-Distance, Specialized Freight (except Used Goods) Trucking, Local","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+309,b64864309,All Other Support Activities for Transportation,Transportation and Warehousing,0
+310,b13214523,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,Other Services (except Public Administration),0
+311,b88086608,Architectural Services,"Professional, Scientific, and Technical Services",0
+312,b24068256,Drugs and Druggists' Sundries Merchant Wholesalers,Wholesale Trade,0
+313,b81319295,Industrial Machinery and Equipment Merchant Wholesalers,Wholesale Trade,0
+314,b07709660,"Offices of Certified Public Accountants, Other Accounting Services, Tax Preparation Services","Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services",0
+315,b98694268,"Other Support Activities for Road Transportation, Support Activities for Rail Transportation","Transportation and Warehousing, Transportation and Warehousing",0
+316,b43220383,"Other Miscellaneous Durable Goods Merchant Wholesalers, Other Miscellaneous Nondurable Goods Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+317,b86645405,Travel Agencies,Administrative and Support and Waste Management and Remediation Services,0
+318,b54328786,"New Housing For-Sale Builders, New Single-Family Housing Construction (except For-Sale Builders), New Multifamily Housing Construction (except For-Sale Builders), Commercial and Institutional Building Construction, Industrial Building Construction, Residential Remodelers","Construction, Construction, Construction, Construction, Construction, Construction",0
+319,b23550437,"Limited-Service Restaurants, Full-Service Restaurants, Mobile Food Services","Accommodation and Food Services, Accommodation and Food Services, Accommodation and Food Services",0
+320,b23764293,Industrial Machinery and Equipment Merchant Wholesalers,Wholesale Trade,0
+321,b05143698,All Other Animal Production,"Agriculture, Forestry, Fishing and Hunting",0
+322,b46080636,"Ornamental and Architectural Metal Work Manufacturing, Metal Window and Door Manufacturing","Manufacturing, Manufacturing",0
+323,b46080636,"Ornamental and Architectural Metal Work Manufacturing, Metal Window and Door Manufacturing","Manufacturing, Manufacturing",0
+324,b58091117,Commercial Printing (except Screen and Books),Manufacturing,0
+325,b84916337,Travel Agencies,Administrative and Support and Waste Management and Remediation Services,0
+326,b46939013,Hotels (except Casino Hotels) and Motels,Accommodation and Food Services,0
+327,b22429773,Other Spectator Sports,"Arts, Entertainment, and Recreation",0
+328,b46275129,All Other Specialty Trade Contractors,Construction,0
+329,b86977592,"Colleges, Universities, and Professional Schools",Educational Services,0
+330,b66415688,Other Computer Related Services,"Professional, Scientific, and Technical Services",0
+331,a08433260,"General Freight Trucking, Long-Distance, Truckload, General Freight Trucking, Local, Specialized Freight (except Used Goods) Trucking, Long-Distance, Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Long-Distance, Less Than Truckload","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+332,b63474431,Electrical Contractors and Other Wiring Installation Contractors,Construction,0
+333,b24612442,Fruit and Vegetable Markets,Retail Trade,0
+334,b95698619,"Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers, Hardware Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+335,b91658104,Fish and Seafood Merchant Wholesalers,Wholesale Trade,0
+336,b91547919,"Electroplating, Plating, Polishing, Anodizing, and Coloring, Metal Heat Treating, Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers","Manufacturing, Manufacturing, Manufacturing",0
+337,b64918089,"New Multifamily Housing Construction (except For-Sale Builders), Commercial and Institutional Building Construction, Industrial Building Construction, Residential Remodelers, New Housing For-Sale Builders, New Single-Family Housing Construction (except For-Sale Builders)","Construction, Construction, Construction, Construction, Construction, Construction",0
+338,b76162601,"All Other Home Furnishings Stores, Furniture Stores","Retail Trade, Retail Trade",0
+339,b66034612,Research and Development in Biotechnology (except Nanobiotechnology),"Professional, Scientific, and Technical Services",0
+340,b64498769,Other Gambling Industries,"Arts, Entertainment, and Recreation",0
+341,b64498769,Other Gambling Industries,"Arts, Entertainment, and Recreation",0
+342,b63048540,Other Chemical and Allied Products Merchant Wholesalers,Wholesale Trade,0
+343,b17952771,"Industrial Building Construction, Residential Remodelers, New Single-Family Housing Construction (except For-Sale Builders), New Multifamily Housing Construction (except For-Sale Builders), New Housing For-Sale Builders, Commercial and Institutional Building Construction","Construction, Construction, Construction, Construction, Construction, Construction",0
+344,b91937490,Custom Computer Programming Services,"Professional, Scientific, and Technical Services",0
+345,b15031446,"General Freight Trucking, Long-Distance, Truckload, General Freight Trucking, Local, Specialized Freight (except Used Goods) Trucking, Long-Distance, Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Long-Distance, Less Than Truckload","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+346,b86413689,"All Other Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",0
+347,b87753711,Testing Laboratories,"Professional, Scientific, and Technical Services",0
+348,b86947298,Other Management Consulting Services,"Professional, Scientific, and Technical Services",0
+349,b67106310,Other Management Consulting Services,"Professional, Scientific, and Technical Services",0
+350,b35818020,Services for the Elderly and Persons with Disabilities,Health Care and Social Assistance,0
+351,b54498431,Computer Systems Design Services,"Professional, Scientific, and Technical Services",0
+352,b35519412,Other Heavy and Civil Engineering Construction,Construction,0
+353,b85923969,"Confectionery and Nut Stores, Baked Goods Stores, Retail Bakeries","Retail Trade, Retail Trade, Manufacturing",0
+354,b73658825,"Tobacco and Tobacco Product Merchant Wholesalers, Grain and Field Bean Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+355,b70467923,Other Grocery and Related Products Merchant Wholesalers,Wholesale Trade,0
+356,b86658606,All Other Specialty Food Stores,Retail Trade,0
+357,b83086611,Other Commercial and Industrial Machinery and Equipment Rental and Leasing,Real Estate and Rental and Leasing,0
+358,b12693602,Sporting Goods Stores,Retail Trade,0
+359,b88029707,Satellite Telecommunications,Information,0
+360,b20076030,Industrial Machinery and Equipment Merchant Wholesalers,Wholesale Trade,0
+361,b21512553,"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers, Other Construction Material Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+362,b41925769,"Wine and Distilled Alcoholic Beverage Merchant Wholesalers, Beer and Ale Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+363,b38500179,"Commercial and Institutional Building Construction, New Multifamily Housing Construction (except For-Sale Builders), New Single-Family Housing Construction (except For-Sale Builders), Industrial Building Construction","Construction, Construction, Construction, Construction",0
+364,b65523615,"Spring Manufacturing, Other Fabricated Wire Product Manufacturing","Manufacturing, Manufacturing",0
+365,b39727151,Other Personal and Household Goods Repair and Maintenance,Other Services (except Public Administration),0
+366,b87340295,"All Other Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",0
+367,b50490515,Other Industrial Machinery Manufacturing,Manufacturing,0
+368,b96008941,"Tax Preparation Services, Other Accounting Services, Offices of Certified Public Accountants","Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services",0
+369,b84635036,Electrical Contractors and Other Wiring Installation Contractors,Construction,0
+370,b18806232,All Other Personal Services,Other Services (except Public Administration),0
+371,b63131981,Hotels (except Casino Hotels) and Motels,Accommodation and Food Services,0
+372,b63995542,"Other Miscellaneous Nondurable Goods Merchant Wholesalers, Wholesale Trade Agents and Brokers","Wholesale Trade, Wholesale Trade",0
+373,b12887071,Other Building Finishing Contractors,Construction,0
+374,b60202439,All Other Miscellaneous Food Manufacturing,Manufacturing,0
+375,a28735470,All Other Health and Personal Care Stores,Retail Trade,0
+376,b66559618,All Other Amusement and Recreation Industries,"Arts, Entertainment, and Recreation",0
+377,b86642519,Commercial Printing (except Screen and Books),Manufacturing,0
+378,b10472504,"Other Construction Material Merchant Wholesalers, Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+379,b73714438,"Automobile and Other Motor Vehicle Merchant Wholesalers, Motorcycle, ATV, and All Other Motor Vehicle Dealers","Wholesale Trade, Retail Trade",0
+380,b23656457,Sporting Goods Stores,Retail Trade,0
+381,b90116187,Home Furnishing Merchant Wholesalers,Wholesale Trade,0
+382,b87867347,"General Freight Trucking, Local, Specialized Freight (except Used Goods) Trucking, Long-Distance, Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Long-Distance, Less Than Truckload, General Freight Trucking, Long-Distance, Truckload","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+383,b41058496,"Commercial Bakeries, Retail Bakeries","Manufacturing, Manufacturing",0
+384,b93113801,"Fruit and Vegetable Canning, Frozen Fruit, Juice, and Vegetable Manufacturing","Manufacturing, Manufacturing",0
+385,b84187202,Computer Systems Design Services,"Professional, Scientific, and Technical Services",0
+386,b98850175,Automotive Parts and Accessories Stores,Retail Trade,0
+387,b98875057,"Other Miscellaneous Nondurable Goods Merchant Wholesalers, Other Miscellaneous Durable Goods Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+388,b60465523,All Other Specialty Trade Contractors,Construction,0
+389,b86984499,Public Relations Agencies,"Professional, Scientific, and Technical Services",0
+390,a03232923,Fabricated Structural Metal Manufacturing,Manufacturing,0
+391,b49163942,"Grain and Field Bean Merchant Wholesalers, Tobacco and Tobacco Product Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+392,b29710316,"Industrial Building Construction, Commercial and Institutional Building Construction, Residential Remodelers, New Housing For-Sale Builders, New Multifamily Housing Construction (except For-Sale Builders), New Single-Family Housing Construction (except For-Sale Builders)","Construction, Construction, Construction, Construction, Construction, Construction",0
+393,a15035538,"Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers, Hardware Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+394,b81058273,Fish and Seafood Merchant Wholesalers,Wholesale Trade,0
+395,b81058273,Fish and Seafood Merchant Wholesalers,Wholesale Trade,0
+396,b85881282,"Passenger Car Rental, Passenger Car Leasing","Real Estate and Rental and Leasing, Real Estate and Rental and Leasing",0
+397,b32231201,All Other Traveler Accommodation,Accommodation and Food Services,0
+398,b76267707,Ship Building and Repairing,Manufacturing,0
+399,b35537638,"Snack and Nonalcoholic Beverage Bars, Drinking Places (Alcoholic Beverages)","Accommodation and Food Services, Accommodation and Food Services",0
+400,a17130717,Fish and Seafood Merchant Wholesalers,Wholesale Trade,0
+401,b72177090,Ship Building and Repairing,Manufacturing,0
+402,b73885352,"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",Wholesale Trade,0
+403,b09557117,All Other Specialty Trade Contractors,Construction,0
+404,b12904611,Offices of Dentists,Health Care and Social Assistance,0
+405,b54574595,Electrical Contractors and Other Wiring Installation Contractors,Construction,0
+406,b81681934,Other Activities Related to Real Estate,Real Estate and Rental and Leasing,0
+407,b06744544,Media Representatives,"Professional, Scientific, and Technical Services",0
+408,b32358368,Offices of Dentists,Health Care and Social Assistance,0
+409,b87043709,"Convenience Stores, Supermarkets and Other Grocery (except Convenience) Stores","Retail Trade, Retail Trade",0
+410,b98884588,All Other Business Support Services,Administrative and Support and Waste Management and Remediation Services,0
+411,b65104622,Other Building Equipment Contractors,Construction,0
+412,b62025937,Electrical Contractors and Other Wiring Installation Contractors,Construction,0
+413,b84796374,Electrical Contractors and Other Wiring Installation Contractors,Construction,0
+414,a28735777,Nonferrous Metal Die-Casting Foundries,Manufacturing,0
+415,b37565322,"Limited-Service Restaurants, Mobile Food Services, Full-Service Restaurants","Accommodation and Food Services, Accommodation and Food Services, Accommodation and Food Services",0
+416,b91780734,"Limited-Service Restaurants, Full-Service Restaurants, Mobile Food Services","Accommodation and Food Services, Accommodation and Food Services, Accommodation and Food Services",0
+417,a82010281,Natural Gas Distribution,Utilities,0
+418,b66108424,All Other Business Support Services,Administrative and Support and Waste Management and Remediation Services,0
+419,b98643364,Periodical Publishers,Information,0
+420,b63480883,"Retail Bakeries, Commercial Bakeries","Manufacturing, Manufacturing",0
+421,a41194861,"Beer and Ale Merchant Wholesalers, Wine and Distilled Alcoholic Beverage Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+422,b98527567,"Industrial Machinery and Equipment Merchant Wholesalers, Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+423,b84626092,Electrical Contractors and Other Wiring Installation Contractors,Construction,0
+424,b25457086,Support Activities for Animal Production,"Agriculture, Forestry, Fishing and Hunting",0
+425,b83283119,Electrical Contractors and Other Wiring Installation Contractors,Construction,0
+426,b86756038,"Retail Bakeries, Confectionery and Nut Stores, Baked Goods Stores","Manufacturing, Retail Trade, Retail Trade",0
+427,b74373523,"Meat Markets, Fruit and Vegetable Markets, Fish and Seafood Markets","Retail Trade, Retail Trade, Retail Trade",0
+428,b98465214,"Cemeteries and Crematories, Funeral Homes and Funeral Services","Other Services (except Public Administration), Other Services (except Public Administration)",0
+429,b97170641,"Nonresidential Property Managers, Residential Property Managers","Real Estate and Rental and Leasing, Real Estate and Rental and Leasing",0
+430,b92414747,Satellite Telecommunications,Information,0
+431,b45875689,Commercial Printing (except Screen and Books),Manufacturing,0
+432,b13596515,"Footwear Merchant Wholesalers, Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers, Men's and Boys' Clothing and Furnishings Merchant Wholesalers","Wholesale Trade, Wholesale Trade, Wholesale Trade",0
+433,b57878324,"Commercial and Institutional Building Construction, Industrial Building Construction, Residential Remodelers, New Housing For-Sale Builders, New Multifamily Housing Construction (except For-Sale Builders), New Single-Family Housing Construction (except For-Sale Builders)","Construction, Construction, Construction, Construction, Construction, Construction",0
+434,b18930172,Office Equipment Merchant Wholesalers,Wholesale Trade,0
+435,b29718467,All Other Miscellaneous Schools and Instruction,Educational Services,0
+436,b30384879,Footwear Manufacturing,Manufacturing,0
+437,a42172205,Wood Kitchen Cabinet and Countertop Manufacturing,Manufacturing,0
+438,b98637168,"Plumbing, Heating, and Air-Conditioning Contractors",Construction,0
+439,a09068917,All Other Amusement and Recreation Industries,"Arts, Entertainment, and Recreation",0
+440,b66401415,"New Housing For-Sale Builders, New Single-Family Housing Construction (except For-Sale Builders), New Multifamily Housing Construction (except For-Sale Builders), Commercial and Institutional Building Construction, Industrial Building Construction, Residential Remodelers","Construction, Construction, Construction, Construction, Construction, Construction",0
+441,b14855415,"Other Accounting Services, Offices of Certified Public Accountants, Tax Preparation Services","Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services",0
+442,b55247290,Household Appliance Stores,Retail Trade,0
+443,b87469615,Employment Placement Agencies,Administrative and Support and Waste Management and Remediation Services,0
+444,b83354977,Other Building Equipment Contractors,Construction,0
+445,b19658319,All Other Miscellaneous Chemical Product and Preparation Manufacturing,Manufacturing,0
+446,b17955535,Other Commercial and Service Industry Machinery Manufacturing,Manufacturing,0
+447,b96585328,All Other Miscellaneous General Purpose Machinery Manufacturing,Manufacturing,0
+448,b35841758,Automotive Parts and Accessories Stores,Retail Trade,0
+449,b86052040,"Other Miscellaneous Durable Goods Merchant Wholesalers, Other Miscellaneous Nondurable Goods Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+450,b18591222,"Funeral Homes and Funeral Services, Cemeteries and Crematories","Other Services (except Public Administration), Other Services (except Public Administration)",0
+451,b17507633,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,Other Services (except Public Administration),0
+452,b48512958,Electrical Contractors and Other Wiring Installation Contractors,Construction,0
+453,b86338316,Other Computer Related Services,"Professional, Scientific, and Technical Services",0
+454,b59920892,Industrial Machinery and Equipment Merchant Wholesalers,Wholesale Trade,0
+455,b73320715,Other Computer Related Services,"Professional, Scientific, and Technical Services",0
+456,a07266513,Lessors of Other Real Estate Property,Real Estate and Rental and Leasing,0
+457,b07849151,Travel Agencies,Administrative and Support and Waste Management and Remediation Services,0
+458,b50734466,"Electroplating, Plating, Polishing, Anodizing, and Coloring, Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers, Metal Heat Treating","Manufacturing, Manufacturing, Manufacturing",0
+459,b60137676,"Rendering and Meat Byproduct Processing, Meat Processed from Carcasses","Manufacturing, Manufacturing",0
+460,a39069703,"General Freight Trucking, Long-Distance, Truckload, General Freight Trucking, Local, Specialized Freight (except Used Goods) Trucking, Long-Distance, Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Long-Distance, Less Than Truckload","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+461,b63628507,Services for the Elderly and Persons with Disabilities,Health Care and Social Assistance,0
+462,b64006109,Cookie and Cracker Manufacturing,Manufacturing,0
+463,b30355911,"Meat Processed from Carcasses, Animal (except Poultry) Slaughtering","Manufacturing, Manufacturing",0
+464,b79473476,"Bolt, Nut, Screw, Rivet, and Washer Manufacturing",Manufacturing,0
+465,b84828698,"Rendering and Meat Byproduct Processing, Meat Processed from Carcasses","Manufacturing, Manufacturing",0
+466,b95274890,Computer Systems Design Services,"Professional, Scientific, and Technical Services",0
+467,b42583294,Sporting Goods Stores,Retail Trade,0
+468,b87717179,"Motor Vehicle Parts (Used) Merchant Wholesalers, Motor Vehicle Supplies and New Parts Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+469,b82774969,Offices of Dentists,Health Care and Social Assistance,0
+470,b55139539,"Plumbing, Heating, and Air-Conditioning Contractors",Construction,0
+471,b26534164,"Metal Window and Door Manufacturing, Ornamental and Architectural Metal Work Manufacturing","Manufacturing, Manufacturing",0
+472,b65242992,"Other Services to Buildings and Dwellings, Janitorial Services","Administrative and Support and Waste Management and Remediation Services, Administrative and Support and Waste Management and Remediation Services",0
+473,b82163908,Translation and Interpretation Services,"Professional, Scientific, and Technical Services",0
+474,b87474797,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,Other Services (except Public Administration),0
+475,b95892055,Other Computer Related Services,"Professional, Scientific, and Technical Services",0
+476,b39811286,Veterinary Services,"Professional, Scientific, and Technical Services",0
+477,a28096378,Other Chemical and Allied Products Merchant Wholesalers,Wholesale Trade,0
+478,b12410403,"General Freight Trucking, Local, Specialized Freight (except Used Goods) Trucking, Long-Distance, Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Long-Distance, Less Than Truckload, General Freight Trucking, Long-Distance, Truckload","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+479,b21565932,Wired Telecommunications Carriers,Information,0
+480,b13602651,"Limited-Service Restaurants, Full-Service Restaurants, Mobile Food Services","Accommodation and Food Services, Accommodation and Food Services, Accommodation and Food Services",0
+481,b73899726,"Wine and Distilled Alcoholic Beverage Merchant Wholesalers, Beer and Ale Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+482,b93494797,"Grain and Field Bean Merchant Wholesalers, Tobacco and Tobacco Product Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+483,b93494797,"Grain and Field Bean Merchant Wholesalers, Tobacco and Tobacco Product Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+484,b93494797,"Grain and Field Bean Merchant Wholesalers, Tobacco and Tobacco Product Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+485,b96775531,"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers, Other Construction Material Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+486,b84744689,All Other Miscellaneous Manufacturing,Manufacturing,0
+487,b38760088,"General Freight Trucking, Long-Distance, Less Than Truckload, General Freight Trucking, Local, General Freight Trucking, Long-Distance, Truckload, Specialized Freight (except Used Goods) Trucking, Local, Specialized Freight (except Used Goods) Trucking, Long-Distance","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",0
+488,b81589582,"Paint and Wallpaper Stores, Hardware Stores","Retail Trade, Retail Trade",0
+489,b98933096,All Other Automotive Repair and Maintenance,Other Services (except Public Administration),0
+490,b88595210,Electronics Stores,Retail Trade,0
+491,b70172325,Other Chemical and Allied Products Merchant Wholesalers,Wholesale Trade,0
+492,a50013465,"Power Boiler and Heat Exchanger Manufacturing, Heating Equipment (except Warm Air Furnaces) Manufacturing","Manufacturing, Manufacturing",0
+493,b42209924,Water Supply and Irrigation Systems,Utilities,0
+494,b67044768,"Hobby, Toy, and Game Stores",Retail Trade,0
+495,b14094874,"Other Construction Material Merchant Wholesalers, Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers","Wholesale Trade, Wholesale Trade",0
+496,b25599119,Drugs and Druggists' Sundries Merchant Wholesalers,Wholesale Trade,0
+497,b45724853,"Janitorial Services, Carpet and Upholstery Cleaning Services","Administrative and Support and Waste Management and Remediation Services, Administrative and Support and Waste Management and Remediation Services",0
+498,b76813575,Lessors of Other Real Estate Property,Real Estate and Rental and Leasing,0
+499,b78685153,Commercial Printing (except Screen and Books),Manufacturing,0
+500,b18957985,"Security Systems Services (except Locksmiths), Locksmiths","Administrative and Support and Waste Management and Remediation Services, Administrative and Support and Waste Management and Remediation Services",0
+501,a08048654,Industrial Machinery and Equipment Merchant Wholesalers,Wholesale Trade,0
+502,b54066493,Cookie and Cracker Manufacturing,Manufacturing,0
+503,b20899324,Offices of All Other Miscellaneous Health Practitioners,Health Care and Social Assistance,0
+0,b53697231,Other Computer Related Services,"Professional, Scientific, and Technical Services",1
+1,b61992293,"Plumbing, Heating, and Air-Conditioning Contractors",Construction,1
+2,b86785268,"Automobile and Other Motor Vehicle Merchant Wholesalers, Motorcycle, ATV, and All Other Motor Vehicle Dealers","Wholesale Trade, Retail Trade",1
+3,b99255077,All Other Health and Personal Care Stores,Retail Trade,1
+4,b29738317,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing, Unlaminated Plastics Profile Shape Manufacturing, Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing","Manufacturing, Manufacturing, Manufacturing",1
+5,b99115313,"Mobile Food Services, Limited-Service Restaurants, Full-Service Restaurants","Accommodation and Food Services, Accommodation and Food Services, Accommodation and Food Services",1
+6,b86989191,Insurance Agencies and Brokerages,Finance and Insurance,1
+7,b64778996,Other Computer Related Services,"Professional, Scientific, and Technical Services",1
+8,b35908177,Drugs and Druggists' Sundries Merchant Wholesalers,Wholesale Trade,1
+9,b36221018,"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",Wholesale Trade,1
+10,b18230920,"Concrete Pipe Manufacturing, Concrete Block and Brick Manufacturing","Manufacturing, Manufacturing",1
+11,b65416349,Appliance Repair and Maintenance,Other Services (except Public Administration),1
+12,b63937734,"New Housing For-Sale Builders, Residential Remodelers, New Multifamily Housing Construction (except For-Sale Builders), New Single-Family Housing Construction (except For-Sale Builders), Industrial Building Construction, Commercial and Institutional Building Construction","Construction, Construction, Construction, Construction, Construction, Construction",1
+13,b63937734,"New Housing For-Sale Builders, Residential Remodelers, New Multifamily Housing Construction (except For-Sale Builders), New Single-Family Housing Construction (except For-Sale Builders), Industrial Building Construction, Commercial and Institutional Building Construction","Construction, Construction, Construction, Construction, Construction, Construction",1
+14,b19551738,"General Freight Trucking, Long-Distance, Less Than Truckload, General Freight Trucking, Local, Specialized Freight (except Used Goods) Trucking, Local, Specialized Freight (except Used Goods) Trucking, Long-Distance, General Freight Trucking, Long-Distance, Truckload","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",1
+15,b83054759,All Other Personal Services,Other Services (except Public Administration),1
+16,b84623032,Other Electronic Parts and Equipment Merchant Wholesalers,Wholesale Trade,1
+17,b72089907,Other Clothing Stores,Retail Trade,1
+18,b83754937,"All Other Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",1
+19,b71191506,"Ornamental and Architectural Metal Work Manufacturing, Metal Window and Door Manufacturing","Manufacturing, Manufacturing",1
+20,b85955490,"Telephone Answering Services, Telemarketing Bureaus and Other Contact Centers","Administrative and Support and Waste Management and Remediation Services, Administrative and Support and Waste Management and Remediation Services",1
+21,b30563415,"Other Services to Buildings and Dwellings, Janitorial Services","Administrative and Support and Waste Management and Remediation Services, Administrative and Support and Waste Management and Remediation Services",1
+22,b09565706,Other Management Consulting Services,"Professional, Scientific, and Technical Services",1
+23,b33992769,Drugs and Druggists' Sundries Merchant Wholesalers,Wholesale Trade,1
+24,b67486340,"Other Accounting Services, Tax Preparation Services, Offices of Certified Public Accountants","Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services",1
+25,b98804909,Other Clothing Stores,Retail Trade,1
+26,b73275414,All Other Specialty Food Stores,Retail Trade,1
+27,b67431205,Computer Systems Design Services,"Professional, Scientific, and Technical Services",1
+28,b52009743,All Other Telecommunications,Information,1
+29,b64402761,Computer Facilities Management Services,"Professional, Scientific, and Technical Services",1
+30,b65014482,"Other Farm Product Raw Material Merchant Wholesalers, Livestock Merchant Wholesalers","Wholesale Trade, Wholesale Trade",1
+31,b67252833,Engineering Services,"Professional, Scientific, and Technical Services",1
+32,b66279118,Other Direct Selling Establishments,Retail Trade,1
+33,b08790883,"Polystyrene Foam Product Manufacturing, All Other Plastics Product Manufacturing, Plastics Plumbing Fixture Manufacturing, Urethane and Other Foam Product (except Polystyrene) Manufacturing","Manufacturing, Manufacturing, Manufacturing, Manufacturing",1
+34,b85540284,All Other Automotive Repair and Maintenance,Other Services (except Public Administration),1
+35,a01314319,Other Management Consulting Services,"Professional, Scientific, and Technical Services",1
+36,b20927323,All Other Telecommunications,Information,1
+37,b54671813,Natural Gas Distribution,Utilities,1
+38,b23788722,"New Housing For-Sale Builders, New Single-Family Housing Construction (except For-Sale Builders), New Multifamily Housing Construction (except For-Sale Builders), Industrial Building Construction, Commercial and Institutional Building Construction, Residential Remodelers","Construction, Construction, Construction, Construction, Construction, Construction",1
+39,b27300854,"Footwear Merchant Wholesalers, Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers, Men's and Boys' Clothing and Furnishings Merchant Wholesalers","Wholesale Trade, Wholesale Trade, Wholesale Trade",1
+40,b66587205,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,Other Services (except Public Administration),1
+41,a24090805,"Automobile and Other Motor Vehicle Merchant Wholesalers, Motorcycle, ATV, and All Other Motor Vehicle Dealers","Wholesale Trade, Retail Trade",1
+42,b27464445,All Other Specialty Trade Contractors,Construction,1
+43,b88039144,"Business to Business Electronic Markets, Electronic Shopping and Mail-Order Houses","Wholesale Trade, Retail Trade",1
+44,b87823795,Custom Computer Programming Services,"Professional, Scientific, and Technical Services",1
+45,b98552797,"Other Miscellaneous Durable Goods Merchant Wholesalers, Other Miscellaneous Nondurable Goods Merchant Wholesalers","Wholesale Trade, Wholesale Trade",1
+46,b99540114,"New Single-Family Housing Construction (except For-Sale Builders), New Housing For-Sale Builders, Residential Remodelers, Industrial Building Construction, Commercial and Institutional Building Construction, New Multifamily Housing Construction (except For-Sale Builders)","Construction, Construction, Construction, Construction, Construction, Construction",1
+47,a47060553,Cookie and Cracker Manufacturing,Manufacturing,1
+48,a43097617,"Motorcycle, ATV, and All Other Motor Vehicle Dealers, Automobile and Other Motor Vehicle Merchant Wholesalers","Retail Trade, Wholesale Trade",1
+49,a25324690,Steel Wire Drawing,Manufacturing,1
+50,b92603372,"Janitorial Services, Other Services to Buildings and Dwellings","Administrative and Support and Waste Management and Remediation Services, Administrative and Support and Waste Management and Remediation Services",1
+51,b02576239,"Motorcycle, Bicycle, and Parts Manufacturing",Manufacturing,1
+52,b87442570,"Other Construction Material Merchant Wholesalers, Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers","Wholesale Trade, Wholesale Trade",1
+53,b70556188,Other Management Consulting Services,"Professional, Scientific, and Technical Services",1
+54,b55597561,All Other Specialty Trade Contractors,Construction,1
+55,b22185771,"Highway, Street, and Bridge Construction",Construction,1
+56,b61584058,Electrical Contractors and Other Wiring Installation Contractors,Construction,1
+57,b59421743,Metal Service Centers and Other Metal Merchant Wholesalers,Wholesale Trade,1
+58,b59421743,Metal Service Centers and Other Metal Merchant Wholesalers,Wholesale Trade,1
+59,b67463588,Other Computer Related Services,"Professional, Scientific, and Technical Services",1
+60,b01448059,"Iron and Steel Forging, Metal Crown, Closure, and Other Metal Stamping (except Automotive), Custom Roll Forming, Nonferrous Forging","Manufacturing, Manufacturing, Manufacturing, Manufacturing",1
+61,b65230922,Other Communications Equipment Manufacturing,Manufacturing,1
+62,b88273792,All Other Miscellaneous Food Manufacturing,Manufacturing,1
+63,b16663650,"Limited-Service Restaurants, Mobile Food Services, Full-Service Restaurants","Accommodation and Food Services, Accommodation and Food Services, Accommodation and Food Services",1
+64,b86838497,Media Representatives,"Professional, Scientific, and Technical Services",1
+65,a58908732,Other Computer Related Services,"Professional, Scientific, and Technical Services",1
+66,b93459998,Architectural Services,"Professional, Scientific, and Technical Services",1
+67,a24289860,"Motorcycle, ATV, and All Other Motor Vehicle Dealers, Automobile and Other Motor Vehicle Merchant Wholesalers","Retail Trade, Wholesale Trade",1
+68,b40602914,"Wine and Distilled Alcoholic Beverage Merchant Wholesalers, Beer and Ale Merchant Wholesalers","Wholesale Trade, Wholesale Trade",1
+69,b46149456,"Frozen Fruit, Juice, and Vegetable Manufacturing, Fruit and Vegetable Canning","Manufacturing, Manufacturing",1
+70,b30138754,Other Electronic Parts and Equipment Merchant Wholesalers,Wholesale Trade,1
+71,b90432501,"Electronic Shopping and Mail-Order Houses, Business to Business Electronic Markets","Retail Trade, Wholesale Trade",1
+72,b66135625,"Wholesale Trade Agents and Brokers, Other Miscellaneous Nondurable Goods Merchant Wholesalers","Wholesale Trade, Wholesale Trade",1
+73,b08320038,Synthetic Dye and Pigment Manufacturing,Manufacturing,1
+74,b86591229,Other Management Consulting Services,"Professional, Scientific, and Technical Services",1
+75,b62039920,All Other Business Support Services,Administrative and Support and Waste Management and Remediation Services,1
+76,b76815539,"Other Miscellaneous Nondurable Goods Merchant Wholesalers, Wholesale Trade Agents and Brokers","Wholesale Trade, Wholesale Trade",1
+77,b98428832,Other Management Consulting Services,"Professional, Scientific, and Technical Services",1
+78,b05197660,Nursing Care Facilities (Skilled Nursing Facilities),Health Care and Social Assistance,1
+79,b99135832,Custom Computer Programming Services,"Professional, Scientific, and Technical Services",1
+80,b05155205,"Convenience Stores, Supermarkets and Other Grocery (except Convenience) Stores","Retail Trade, Retail Trade",1
+81,b64974264,"Other Warehousing and Storage, General Warehousing and Storage","Transportation and Warehousing, Transportation and Warehousing",1
+82,b61875589,Cookie and Cracker Manufacturing,Manufacturing,1
+83,b61875589,Cookie and Cracker Manufacturing,Manufacturing,1
+84,b12767034,"Residential Remodelers, Commercial and Institutional Building Construction, Industrial Building Construction, New Single-Family Housing Construction (except For-Sale Builders), New Multifamily Housing Construction (except For-Sale Builders), New Housing For-Sale Builders","Construction, Construction, Construction, Construction, Construction, Construction",1
+85,b67433128,"Business to Business Electronic Markets, Electronic Shopping and Mail-Order Houses","Wholesale Trade, Retail Trade",1
+86,b60751328,Automobile Driving Schools,Educational Services,1
+87,b50638139,"Other Miscellaneous Durable Goods Merchant Wholesalers, Other Miscellaneous Nondurable Goods Merchant Wholesalers","Wholesale Trade, Wholesale Trade",1
+88,b33509837,"Other Accounting Services, Tax Preparation Services, Offices of Certified Public Accountants","Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services, Professional, Scientific, and Technical Services",1
+89,b61550851,All Other Health and Personal Care Stores,Retail Trade,1
+90,b80063969,Other Management Consulting Services,"Professional, Scientific, and Technical Services",1
+91,b80063969,Other Management Consulting Services,"Professional, Scientific, and Technical Services",1
+92,a08544298,Sporting and Athletic Goods Manufacturing,Manufacturing,1
+93,b61411088,"Livestock Merchant Wholesalers, Other Farm Product Raw Material Merchant Wholesalers","Wholesale Trade, Wholesale Trade",1
+94,b86008422,"All Other Professional, Scientific, and Technical Services","Professional, Scientific, and Technical Services",1
+95,b15072713,"Highway, Street, and Bridge Construction",Construction,1
+96,b59942664,"Commercial Photography, One-Hour Photofinishing, Photography Studios, Portrait, Photofinishing Laboratories (except One-Hour)","Professional, Scientific, and Technical Services, Other Services (except Public Administration), Professional, Scientific, and Technical Services, Other Services (except Public Administration)",1
+97,b87163499,"Department Stores, All Other General Merchandise Stores, Warehouse Clubs and Supercenters","Retail Trade, Retail Trade, Retail Trade",1
+98,b88426101,Custom Computer Programming Services,"Professional, Scientific, and Technical Services",1
+99,b64712177,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),Real Estate and Rental and Leasing,1
+100,b87104683,"Motorcycle, ATV, and All Other Motor Vehicle Dealers, Automobile and Other Motor Vehicle Merchant Wholesalers","Retail Trade, Wholesale Trade",1
+101,b87866414,Educational Support Services,Educational Services,1
+102,b87866414,Educational Support Services,Educational Services,1
+103,b87866414,Educational Support Services,Educational Services,1
+104,b66975723,Private Households,Other Services (except Public Administration),1
+105,b67582544,"Locksmiths, Security Systems Services (except Locksmiths)","Administrative and Support and Waste Management and Remediation Services, Administrative and Support and Waste Management and Remediation Services",1
+106,b45899853,Livestock Merchant Wholesalers,Wholesale Trade,1
+107,b05545231,"Fruit and Vegetable Canning, Frozen Fruit, Juice, and Vegetable Manufacturing","Manufacturing, Manufacturing",1
+108,b62519491,"Doll, Toy, and Game Manufacturing",Manufacturing,1
+109,b62519491,"Doll, Toy, and Game Manufacturing",Manufacturing,1
+110,b64779010,All Other Business Support Services,Administrative and Support and Waste Management and Remediation Services,1
+111,b63624506,"Prefabricated Wood Building Manufacturing, Wood Window and Door Manufacturing","Manufacturing, Manufacturing",1
+112,b72025489,"Armored Car Services, Security Guards and Patrol Services","Administrative and Support and Waste Management and Remediation Services, Administrative and Support and Waste Management and Remediation Services",1
+113,b83163378,All Other Traveler Accommodation,Accommodation and Food Services,1
+114,b32460925,Drugs and Druggists' Sundries Merchant Wholesalers,Wholesale Trade,1
+115,b80936503,"Other Miscellaneous Nondurable Goods Merchant Wholesalers, Other Miscellaneous Durable Goods Merchant Wholesalers","Wholesale Trade, Wholesale Trade",1
+116,b21582671,"Janitorial Services, Other Services to Buildings and Dwellings","Administrative and Support and Waste Management and Remediation Services, Administrative and Support and Waste Management and Remediation Services",1
+117,b57918393,All Other Specialty Trade Contractors,Construction,1
+118,b19675628,All Other Miscellaneous Food Manufacturing,Manufacturing,1
+119,b87093035,All Other Telecommunications,Information,1
+120,b34199414,Lessors of Other Real Estate Property,Real Estate and Rental and Leasing,1
+121,b87960118,Household Appliance Stores,Retail Trade,1
+122,b66788712,"Footwear Merchant Wholesalers, Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers, Men's and Boys' Clothing and Furnishings Merchant Wholesalers","Wholesale Trade, Wholesale Trade, Wholesale Trade",1
+123,b88200894,"Business to Business Electronic Markets, Electronic Shopping and Mail-Order Houses","Wholesale Trade, Retail Trade",1
+124,b46049045,Textile and Fabric Finishing Mills,Manufacturing,1
+125,b85663987,"Flooring Contractors, Painting and Wall Covering Contractors","Construction, Construction",1
+126,b63951172,Drugs and Druggists' Sundries Merchant Wholesalers,Wholesale Trade,1
+127,b67341479,"All Other Miscellaneous Crop Farming, All Other Animal Production","Agriculture, Forestry, Fishing and Hunting, Agriculture, Forestry, Fishing and Hunting",1
+128,b24713752,Newspaper Publishers,Information,1
+129,b66884974,"International Trade Financing, Miscellaneous Financial Investment Activities, Financial Transactions Processing, Reserve, and Clearinghouse Activities, All Other Nondepository Credit Intermediation","Finance and Insurance, Finance and Insurance, Finance and Insurance, Finance and Insurance",1
+130,b70457353,Fitness and Recreational Sports Centers,"Arts, Entertainment, and Recreation",1
+131,b55250864,"Armored Car Services, Security Guards and Patrol Services","Administrative and Support and Waste Management and Remediation Services, Administrative and Support and Waste Management and Remediation Services",1
+132,b66119587,"All Other Home Furnishings Stores, Furniture Stores","Retail Trade, Retail Trade",1
+133,b11346541,"Plumbing, Heating, and Air-Conditioning Contractors",Construction,1
+134,b33503970,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers, Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers","Wholesale Trade, Wholesale Trade",1
+135,b22175350,"Highway, Street, and Bridge Construction",Construction,1
+136,b99379232,Marketing Research and Public Opinion Polling,"Professional, Scientific, and Technical Services",1
+137,b82518952,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",Real Estate and Rental and Leasing,1
+138,b93433001,All Other Telecommunications,Information,1
+139,b83253468,"All Other Home Furnishings Stores, Furniture Stores","Retail Trade, Retail Trade",1
+140,a80715618,Electrical Contractors and Other Wiring Installation Contractors,Construction,1
+141,b54410477,"Plumbing, Heating, and Air-Conditioning Contractors",Construction,1
+142,b04709796,"Metal Crown, Closure, and Other Metal Stamping (except Automotive), Custom Roll Forming, Nonferrous Forging, Iron and Steel Forging","Manufacturing, Manufacturing, Manufacturing, Manufacturing",1
+143,b54008917,"Footwear Merchant Wholesalers, Men's and Boys' Clothing and Furnishings Merchant Wholesalers, Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers","Wholesale Trade, Wholesale Trade, Wholesale Trade",1
+144,b67343707,"General Freight Trucking, Long-Distance, Truckload, Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Long-Distance, Less Than Truckload, Specialized Freight (except Used Goods) Trucking, Long-Distance, General Freight Trucking, Local","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",1
+145,b86605102,All Other Legal Services,"Professional, Scientific, and Technical Services",1
+146,a17043159,"Rendering and Meat Byproduct Processing, Meat Processed from Carcasses","Manufacturing, Manufacturing",1
+147,b73506156,"General Freight Trucking, Local, Specialized Freight (except Used Goods) Trucking, Long-Distance, Specialized Freight (except Used Goods) Trucking, Local, General Freight Trucking, Long-Distance, Less Than Truckload, General Freight Trucking, Long-Distance, Truckload","Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing, Transportation and Warehousing",1
+148,b88204722,"Beauty Salons, Barber Shops","Other Services (except Public Administration), Other Services (except Public Administration)",1
+149,b66619172,Employment Placement Agencies,Administrative and Support and Waste Management and Remediation Services,1
+150,b24327728,"Barber Shops, Beauty Salons","Other Services (except Public Administration), Other Services (except Public Administration)",1
+151,b62455852,"Cosmetics, Beauty Supplies, and Perfume Stores",Retail Trade,1
+152,b98697279,Seafood Product Preparation and Packaging,Manufacturing,1
+153,b66957903,Commercial Printing (except Screen and Books),Manufacturing,1
