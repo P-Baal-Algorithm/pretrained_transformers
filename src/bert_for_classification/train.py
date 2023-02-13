@@ -135,7 +135,9 @@ for epoch in range(num_epochs):
 
     if waiting >= patience:
         break
-with open(f"/out_path/epoch_{epoch}_{datetime.now()}.json", "w", encoding="UTF-8") as f:
+with open(
+    f"{out_path}/epoch_{epoch}_{datetime.now()}.json", "w", encoding="UTF-8"
+) as f:
     json.dump(
         best_scores,
         f,
