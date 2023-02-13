@@ -2,7 +2,14 @@ from collections import OrderedDict
 
 import torch
 from torch import nn
-from transformers import AutoConfig, AutoModel, AutoAdapterModel, MAMConfig
+from transformers import (
+    AdapterConfig,
+    AutoAdapterModel,
+    AutoConfig,
+    AutoModel,
+    MAMConfig,
+    PrefixTuningConfig,
+)
 
 
 class BERTresaForSequenceClassification(nn.Module):
@@ -27,6 +34,18 @@ class BERTresaForSequenceClassification(nn.Module):
         super().__init__()
 
         config = AutoConfig.from_pretrained(pretrained_model_name)
+
+        adapter_config = {
+            "bottleneck_adapter": AdapterConfig(
+                mh_adapter=True,
+                output_adapter=True,
+                reduction_factor=16,
+                non_linearity="relu",
+            ),
+            "prefix_tuning": PrefixTuningConfig(flat=False, prefix_length=30),
+            "mam_adapter": MAMConfig(),
+        }
+
         if not run_adapter:
             self.model = AutoModel.from_pretrained(pretrained_model_name, config=config)
         else:
@@ -35,7 +54,7 @@ class BERTresaForSequenceClassification(nn.Module):
                 pretrained_model_name,  # microsoft/mpnet-base
                 config=config,
             )
-            self.model.add_adapter(adapter_name, config=adapter_config)
+            self.model.add_adapter(adapter_name, config=adapter_config[adapter_name])
             self.model.train_adapter(adapter_name)
             self.model.set_active_adapters(
                 adapter_name
